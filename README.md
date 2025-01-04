@@ -1,2 +1,1 @@
-Projeto de leitura de arquivo CSV
-Programa criado ma linguagem  python para leitura do arquivo CSV
+Programa criado na linguagem Python para leitura de arquivo CSV
